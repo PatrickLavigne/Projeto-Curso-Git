@@ -3,4 +3,4 @@
 Atualizando página para teste e revisão
 
 ## Atualizado com sucesso.
-[Mais assunto sobre o curso, clique aqui](www.dio.me)
+[Mais assunto sobre o curso, clique aqui](https://www.dio.me)
